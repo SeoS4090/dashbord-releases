@@ -334,11 +334,10 @@ Google Cloud Console에서 OAuth 동의 화면을 **"프로덕션으로 게시"*
 
 ## 개발자용
 
-이 저장소(`dashbord-releases`)는 **공개 배포 전용**입니다 — 설치본(`*-setup.exe`, `*.msi`)과 인앱 자동 업데이트용 `latest.json`·서명만 게시됩니다.
+Tauri 2 (Rust) + React + TypeScript + Vite + Tailwind 로 만들어졌습니다.
 
-- Tauri 2 (Rust) + React + TypeScript + Vite + Tailwind 로 만들어졌습니다.
-- **소스 코드**와 빌드/실행 방법·아키텍처 문서는 비공개 저장소 [`SeoS4090/dashbord`](https://github.com/SeoS4090/dashbord) 에 있습니다.
-- 새 버전은 소스 저장소에서 버전 태그를 푸시하면 GitHub Actions가 자동으로 이 저장소의 Release에 올립니다.
+- **소스 코드**와 빌드/실행·아키텍처·기여 문서는 (비공개) 소스 저장소 [`SeoS4090/dashbord`](https://github.com/SeoS4090/dashbord) 에 있습니다.
+- **설치본·`latest.json`(자동 업데이트)** 은 공개 저장소 [`SeoS4090/dashbord-releases`](https://github.com/SeoS4090/dashbord-releases) 의 Release에 게시됩니다. 새 버전은 소스 저장소에서 버전 태그를 푸시하면 GitHub Actions가 자동으로 빌드·배포하고, 이 README도 함께 동기화합니다.
 
 ---
 
