@@ -52,7 +52,7 @@
 | 카테고리 | 위젯 |
 |---|---|
 | **LIFE** | 대시보드 · 시계 · 타이머 · 캘린더 · 출퇴근 · 버스 도착 · 날씨 · 메모 · D-Day · 런처 · 코인 · 뉴스(RSS) · 주식 · 로또 · 환율 · 사운드 믹서 · 미디어 · 블루투스 · YouTube · YouTube Music · X |
-| **GAME** | Tarkov · 치지직 · 데스크톱 펫 |
+| **GAME** | Tarkov · 치지직 · Steam(특가·가격·뉴스·동접) · 데스크톱 펫 |
 | **DEV** | 사용량(Claude) · 시스템 · Jira 칸반 · Idle Game · GitHub 트렌딩 · Hacker News |
 
 전체 설명과 필요한 연동은 **[위젯 카탈로그](guide/위젯-카탈로그.md)** 에서 확인하세요.
