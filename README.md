@@ -58,3 +58,7 @@ Windows 설치본과 앱 업데이트용 파일은 [공개 릴리스](https://gi
 <div align="center">
 <sub>Dashbord · Windows 데스크톱 위젯 대시보드 · 1인 개인 프로젝트</sub>
 </div>
+
+## 서드파티 위젯 (v1.8.2 이상)
+
+설정 → 위젯 설치에서 `.dashwidget.zip`을 설치하면 위젯 목록에 해당 앱의 이름으로 표시됩니다. SDK 규약4와 공통 서비스 상태/제어/재시작을 지원하며 기존 SDK1~3 패키지도 사용할 수 있습니다. [확장 앱 다운로드](https://github.com/SeoS4090/dashbord-releases/blob/main/extensions/README.md)에서 앱별 최소 본체 버전을 확인하세요. Discord 컨트롤러0.1.1은 본체1.8.2 이상과 별도 Node.js 봇 프로그램이 필요합니다.
