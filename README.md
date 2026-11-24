@@ -46,6 +46,7 @@ v1.7.8에는 위젯 39종이 있습니다. 아래 링크에서 카테고리별 �
 | 🔒 **[데이터 저장](guide/데이터-저장.md)** | 무엇이 어디에 저장되는지 · 개인정보 · 보안 |
 | ❓ **[FAQ / 문제 해결](guide/FAQ.md)** | 자주 묻는 질문과 해결 방법 |
 | **[설치판 CLI](guide/설치-및-시작.md#powershell에서-설치판-조작)** | PowerShell에서 위젯 상태 조회·설정·배치·표시 변경 |
+| **[개발용 CLI](docs/process/Dev-Setup.md#control-the-running-app)** | PowerShell에서 실행 중인 앱의 위젯 설정·배치·표시 변경 |
 
 ---
 
