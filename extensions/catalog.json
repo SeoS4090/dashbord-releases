@@ -6,20 +6,20 @@
       "app": "discord-controller",
       "packageId": "dashbord.discord-controller",
       "name": "Discord 봇",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "sdkVersion": 4,
       "category": "DEV",
-      "minimumDashbordVersion": "1.8.3",
+      "minimumDashbordVersion": "1.8.9",
       "source": {
         "repository": "SeoS4090/dashbord-extensions",
         "branch": "codex/discord-controller",
-        "tag": "discord-controller/v1.3.1",
-        "commit": "1c7c962fe74e096124926cc23dd9b536cf61a7f2"
+        "tag": "discord-controller/v1.3.2",
+        "commit": "571df9d6e8748bbde43a67a71cb631d37e226d82"
       },
-      "asset": "dashbord.discord-controller-1.3.1.dashwidget.zip",
-      "sha256": "70c30ae6cd4736d03d86d0f946d8eecce2f5d1f1c0a21600ffef4036e0bf7f92",
-      "downloadUrl": "https://github.com/SeoS4090/dashbord-releases/releases/download/discord-controller%2Fv1.3.1/dashbord.discord-controller-1.3.1.dashwidget.zip",
-      "releaseUrl": "https://github.com/SeoS4090/dashbord-releases/releases/tag/discord-controller%2Fv1.3.1"
+      "asset": "dashbord.discord-controller-1.3.2.dashwidget.zip",
+      "sha256": "9e87fe897d9173d10232be1e1fe962ba4010f611195bdf3c67b7c69012746e78",
+      "downloadUrl": "https://github.com/SeoS4090/dashbord-releases/releases/download/discord-controller%2Fv1.3.2/dashbord.discord-controller-1.3.2.dashwidget.zip",
+      "releaseUrl": "https://github.com/SeoS4090/dashbord-releases/releases/tag/discord-controller%2Fv1.3.2"
     }
   ]
 }
