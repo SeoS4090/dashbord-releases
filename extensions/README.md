@@ -4,7 +4,7 @@
 
 | 앱 | 최신 버전 | 필요한 Dashbord | 다운로드 |
 |---|---|---|---|
-| Dashbord Discord 봇 컨트롤러 | 1.3.0 | 1.8.3+ | [위젯 ZIP](https://github.com/SeoS4090/dashbord-releases/releases/download/discord-controller%2Fv1.3.0/dashbord.discord-controller-1.3.0.dashwidget.zip) · [변경 내역](https://github.com/SeoS4090/dashbord-releases/releases/tag/discord-controller%2Fv1.3.0) |
+| Discord 봇 | 1.3.1 | 1.8.3+ | [위젯 ZIP](https://github.com/SeoS4090/dashbord-releases/releases/download/discord-controller%2Fv1.3.1/dashbord.discord-controller-1.3.1.dashwidget.zip) · [변경 내역](https://github.com/SeoS4090/dashbord-releases/releases/tag/discord-controller%2Fv1.3.1) |
 
 설치 후 해당 앱을 위젯 목록에서 추가합니다. 봇 컨트롤러의 실제 봇 프로그램과 Node.js는 별도 준비가 필요합니다. GitHub의 Source code ZIP은 설치 패키지가 아닙니다.
 
